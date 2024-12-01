@@ -13,6 +13,7 @@
     "@hapi/boom": "^10.0.1",
     "async-lock": "^1.4.1",
     "axios": "^1.7.8",
+    "cache-manager": "6.2.0",
     "futoin-hkdf": "1.5.3",
     "libsignal": "github:AstroX11/libsignal",
     "pino": "^9.5.0",
