@@ -16,9 +16,10 @@
     "cache-manager": "6.2.0",
     "futoin-hkdf": "1.5.3",
     "libsignal": "github:AstroX11/libsignal",
+    "lodash": "^4.17.21",
+    "node-cache": "5.1.2",
     "pino": "^9.5.0",
     "protobufjs": "^7.4.0",
-    "node-cache": "5.1.2",
     "uuid": "^11.0.3",
     "ws": "^8.18.0"
   },
